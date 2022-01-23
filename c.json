@@ -1,4 +1,5 @@
 {
     "ver": 1,
-    "bundle":"https://anhzai.online/web/bundle/"
+    "bundle":"https://anhzai.online/web/bundle/",
+    "appInfo_web": "https://aloxo.xyz/webcnew/config/appInfo_web.json"
 }
