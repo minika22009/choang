@@ -1,5 +1,5 @@
 {
     "ver": 1,
-    "bundle":"http://192.168.0.100:8080/webcnew/bundle/",
+    "bundle":"https://vuadaumo.com/webcnew/bundle/",
     "appInfo": "https://vuadaumo.com/webcnew/config/appInfo_web.json"
 }
