@@ -1,8 +1,9 @@
 {
     "ver": 1,
     "bundle":"https://vuadaumo.com/webcnew/bundle/",
-    "appInfo": "https://resource.thuonghai.vip/config/appInfo_web.json"
+    "appInfo": "https://resource.thuonghai.vip/config/appInfo_web_wss.json"
 }
+
 
 
 
